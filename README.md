@@ -42,13 +42,12 @@ Upload your demo video to Google Drive and paste the shareable link here(max 3 m
 
 ```bash
 # Clone the repository
-git clone <your-repo-link>
+git clone <https://github.com/viswajith-vidyanand/kseb-predictor.git>
 
 # Go to project folder
-cd project-name
-
+cd kseb-predictor
 # Install dependencies
 npm install
 
 # Run the project
-npm start
+npm dev run
